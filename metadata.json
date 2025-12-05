@@ -1,0 +1,7 @@
+{
+  "name": "iCFD",
+  "description": "Real-time Optical Computational Fluid Dynamics. Capture shapes with your camera and simulate wind tunnel aerodynamics instantly, powered by Lattice Boltzmann physics and Gemini AI analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
